@@ -1,0 +1,173 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  padding: 20px;
+  background: rgb(238, 227, 227);
+}
+
+.hero {
+  background-color: #776363;
+  padding: 40px;
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.who {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.about {
+  background: #6c9dd6;
+  display: inline-block;
+  padding: 20px 40px;
+  border-radius: 25px;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.enroll-btn{
+   align-items: normal;
+    border-radius: 10%;
+   text-align: center;
+  margin-bottom: 50px;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  background-color: green;
+   animation: flicker 1s infinite; 
+}
+.enroll-btn :hover{
+  background-color: #c6eb23;
+  color: red;
+}
+
+@keyframes flicker {
+  0%, 50% {
+    opacity: 1; 
+  }
+  100% {
+    opacity: 0;
+  } 
+}
+.button{
+ margin-left: 50%;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+  gap: 15px;
+}
+
+.card {
+    border-radius: 40%;
+    font-style: bold;
+  flex: auto;
+  background-color: aqua;
+  padding: 40px 0;
+  text-align: center;
+  border: 1px solid #000;
+}
+.card:hover{
+    background-color: rgb(166, 233, 211);
+    color: rgb(204, 45, 5);
+
+  
+}
+.testimonials {
+  
+  background: salmon;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.testimonial-boxes {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+  
+}
+
+.testimonial {
+    flex-wrap: wrap;
+  border-bottom-right-radius: 50%;
+  width: 45%;
+  height: 150px;
+  border: 2px solid #000;
+  border-radius: 20px;
+  background: #f9f9f9;
+  background-color: rgb(182, 147, 216);
+}
+
+.pricing {
+    justify-content: space-around;
+    margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.pricing-cards {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+  gap: 15px;
+}
+
+.price-card1 {
+  flex: 1;
+  padding: 60px 0;
+  border: 1px solid #000;
+  background: #eaeaea;
+  text-align: center;
+  font-weight: bold;
+  background-color: yellowgreen;
+}
+.price-card1:hover{
+    background-color: rgb(138, 216, 138);
+    color: rgb(192, 52, 52);
+}
+
+.price-card2 {
+    border-radius: 10%;
+  flex: 1;
+  padding: 60px 0;
+  border: 1px solid #000;
+  background: #eaeaea;
+  text-align: center;
+  font-weight: bold;
+  background-color: rgb(40, 189, 40);
+}
+.price-card2:hover{
+    background-color: rgb(111, 224, 111);
+    color: rgb(192, 52, 52);
+}
+.price-card3 {
+    border-radius: 20%;
+  flex: 1;
+  padding: 60px 0;
+  border: 1px solid #000;
+  background: #eaeaea;
+  text-align: center;
+  font-weight: bold;
+  background-color: green;
+}
+.price-card3:hover{
+    background-color: lawngreen;
+    color: #a11515;
+}
+
+.footer {
+  color: #eaeaea;
+  padding: 20px;
+  text-align: center;
+  background-color: #5a4646;
+}
