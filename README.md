@@ -91,9 +91,7 @@ External CSS is linked using:
 
 Icons are added via img tags from flaticon.com.
 
-Inline styling and formatting (e.g., <b>, <br>, <i>) are used inside content blocks.
-
-Semantically structured using: <section>, <div>, <h1>–<h2>, <p>, <footer>, and <button> tags.
+.
 
 ✅ Purpose of This Code
 To design an engaging, informative, and conversion-optimized landing page for a coding education platform, targeting:
