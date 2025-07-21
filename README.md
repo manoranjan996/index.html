@@ -101,6 +101,8 @@ Beginners
 Career-focused tech aspirants
 
 landing page preview:--
-![WhatsApp Image 2025-07-21 at 10 09 01 AM](https://github.com/user-attachments/assets/5bb749cd-a162-4039-a5f2-8532c0c5939c)
 ![WhatsApp Image 2025-07-21 at 10 08 41 AM](https://github.com/user-attachments/assets/7bb59203-d72a-455a-b7e4-5b423808bbab)
+
+![WhatsApp Image 2025-07-21 at 10 09 01 AM](https://github.com/user-attachments/assets/5bb749cd-a162-4039-a5f2-8532c0c5939c)
+
 
