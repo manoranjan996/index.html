@@ -2,6 +2,8 @@ Infinicode Landing Page....
 This HTML document creates a structured educational website layout for the brand Infinicode.in, aimed at attracting and informing potential learners about their coding courses and offerings.
 
 ✅ Structure Breakdown
+
+
  1.) Header Section (<header class="hero">)
 Displays the main heading:
 “BOOST YOUR CAREER WITH INFINICODE.IN”
