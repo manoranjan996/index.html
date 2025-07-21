@@ -2,19 +2,19 @@
 This HTML document creates a structured educational website layout for the brand Infinicode.in, aimed at attracting and informing potential learners about their coding courses and offerings.
 
 ✅ Structure Breakdown
- 1. Header Section (<header class="hero">)
+ 1.) Header Section (<header class="hero">)
 Displays the main heading:
 “BOOST YOUR CAREER WITH INFINICODE.IN”
 
 Acts as a hero section to grab attention instantly.
 
- 2. About/Introduction Section (<section class="who">)
+ 2.) About/Introduction Section (<section class="who">)
 Contains a short about paragraph describing the platform, its goals, and offerings.
 
 Ends with a Call-to-Action (CTA) button:
 “ENROLL NOW”
 
- 3. Course Features Section
+ 3.) Course Features Section
 Introduced by heading:
 “OUR COURSES FEATURES:-”
 
@@ -36,7 +36,7 @@ Short, bolded description text
 
 Occasional italics to emphasize key points.
 
- 4. Testimonials Section (<section class="testimonials">)
+ 4.) Testimonials Section (<section class="testimonials">)
 Heading: “Our success aspirants:--”
 
 Displays 2 testimonial boxes from:
@@ -47,7 +47,7 @@ BACHHAN PANDEY – Now placed at Google
 
 Testimonials include user feedback and success stories written in conversational style, including Hindi-English mix for relatability.
 
- 5. Pricing Section (<section class="pricing">)
+ 5.) Pricing Section (<section class="pricing">)
 Heading: “Pricing Section”
 
 Contains 3 pricing plan cards:
@@ -64,7 +64,7 @@ The target audience
 
 Features included (curriculum, mentorship, projects, placement support, etc.)
 
- 6. Footer Section (<footer class="footer">)
+ 6.) Footer Section (<footer class="footer">)
 Includes:
 
 Contact buttons:
@@ -90,8 +90,6 @@ External CSS is linked using:
 <link rel="stylesheet" href="styles.css" />
 
 Icons are added via img tags from flaticon.com.
-
-.
 
 ✅ Purpose of This Code
 To design an engaging, informative, and conversion-optimized landing page for a coding education platform, targeting:
